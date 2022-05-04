@@ -1,5 +1,9 @@
-# Salesforce DX Project: Next Steps
+#SFDX-GM CAR DEALERSHIP
 
+Is a Salesforce app designed in LWC for car dealerhsip where you can buy or rent a car. The UI is pretty dynamic and allow you to view both the owner and the car details. You can even leave comments/reviews and experiences of the previously rented car.
+
+
+## Salesforce DX Project: Next Steps
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
 
 ## How Do You Plan to Deploy Your Changes?
