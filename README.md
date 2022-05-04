@@ -1,4 +1,4 @@
-#SFDX-GM CAR DEALERSHIP
+# SFDX-GM CAR DEALERSHIP
 
 Is a Salesforce app designed in LWC for car dealerhsip where you can buy or rent a car. The UI is pretty dynamic and allow you to view both the owner and the car details. You can even leave comments/reviews and experiences of the previously rented car.
 
