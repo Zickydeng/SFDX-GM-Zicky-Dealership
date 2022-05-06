@@ -2,6 +2,8 @@
 
 Is a Salesforce app designed in LWC for car dealerhsip where you can buy or rent a car. The UI is pretty dynamic and allow you to view both the owner and the car details. You can even leave comments/reviews and experiences of the previously rented car.
 
+## This is a LWC Project that was build solely for practice puprpose and the concepts can ba applied in real life project to solves uniques business requirements.
+
 
 ## Salesforce DX Project: Next Steps
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
