@@ -11,7 +11,17 @@ This is a somewhat watered down/simplified version of LWC superbadge project tha
 ## Salesforce DX Project: Next Steps
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
 
-## SFDX LWX App
+## SFDX LWC App
+### Milestone achieved
+- Developing Lightning Web Components for use in Lightning App Builder
+- Using Lightning Data Service
+- Using JavaScript to handle user interactions
+- Troubleshooting components
+- Showing and hiding UX controls dynamically
+- Reading and writing custom object data
+- Communicating between components
+- Using native Salesforce functionality
+- Using external JavaScript in a Lightning web component
 
 ## How Do You Plan to Deploy Your Changes?
 
